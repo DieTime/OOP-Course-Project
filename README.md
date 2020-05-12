@@ -13,7 +13,7 @@ The project classes:
 - Enemy
 
 ### Example
-<img src="https://s6.gifyu.com/images/gameed8d7f4ea0ac1427.gif" alt="example gif" width="300">
+<img src="https://s6.gifyu.com/images/game-2.gif" alt="example gif" width="300">
 
 ### Installation for MinGW
 1. Download freeGlut library with the necessary drivers from: http://tiny.cc/61kjoz
